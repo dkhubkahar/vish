@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 12 Jan 2024 02:26:34 at https://vivah.vishvumiyafoundation.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://vivah.vishvumiyafoundation.org/ -O1 "D:\Websites\vish" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:27:56	Error: 	"Not Found" (404) at link https://vivah.vishvumiyafoundation.org/index.html (from https://vivah.vishvumiyafoundation.org/)
+02:27:58	Error: 	"Not Found" (404) at link https://vivah.vishvumiyafoundation.org/template/front/css/owl.video.play.png (from https://vivah.vishvumiyafoundation.org/template/front/css/owl.carousel.css)
+02:27:58	Error: 	"Not Found" (404) at link https://vivah.vishvumiyafoundation.org/template/front/fonts/other/pacifico.ttf (from https://vivah.vishvumiyafoundation.org/template/front/css/global-style-pink.css)
+02:27:58	Error: 	"Not Found" (404) at link https://vivah.vishvumiyafoundation.org/template/front/fonts/other/yellowtail-regular.ttf (from https://vivah.vishvumiyafoundation.org/template/front/css/global-style-pink.css)
+02:27:59	Error: 	"Not Found" (404) at link https://vivah.vishvumiyafoundation.org/template/front/images/patterns/pattern-1.png (from https://vivah.vishvumiyafoundation.org/template/front/css/global-style-pink.css)
+02:27:59	Error: 	"Bad Request" (400) at link https://vivah.vishvumiyafoundation.org/template/front/css/@{cssRelativePath-1}/images/patterns/cream-pixels.png (from https://vivah.vishvumiyafoundation.org/template/front/css/global-style-pink.css)
+02:27:59	Error: 	"Not Found" (404) at link https://vivah.vishvumiyafoundation.org/template/front/images/shadows/shadow-1.png (from https://vivah.vishvumiyafoundation.org/template/front/css/global-style-pink.css)
+02:27:59	Error: 	"Not Found" (404) at link https://vivah.vishvumiyafoundation.org/template/front/images/patterns/pattern-2.png (from https://vivah.vishvumiyafoundation.org/template/front/css/global-style-pink.css)
+02:27:59	Error: 	"Not Found" (404) at link https://vivah.vishvumiyafoundation.org/template/front/images/patterns/pattern-3.png (from https://vivah.vishvumiyafoundation.org/template/front/css/global-style-pink.css)
+02:27:59	Error: 	"Not Found" (404) at link https://vivah.vishvumiyafoundation.org/template/front/images/icons/google-maps/icon-controller.svg (from https://vivah.vishvumiyafoundation.org/template/front/css/global-style-pink.css)
+02:27:59	Error: 	"Not Found" (404) at link https://vivah.vishvumiyafoundation.org/home/index.html (from https://vivah.vishvumiyafoundation.org/home/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 25 seconds : 313 links scanned, 301 files written (30675960 bytes overall) [29847765 bytes received at 351150 bytes/sec], 1136167 bytes transferred using HTTP compression in 22 files, ratio 16%, 39.5 requests per connection
+(11 errors, 0 warnings, 0 messages)
